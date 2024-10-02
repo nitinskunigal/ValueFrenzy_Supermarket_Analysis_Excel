@@ -113,7 +113,7 @@ Average amount spent per transaction.
 1.	Leverage ValueFrenzy’s private label brands to provide customers with affordable, high-quality alternatives.
 2.	Enhance operational efficiency to mitigate rising costs and pass savings on to consumers through competitive pricing.
 
-For a more detailed look at the insights and recommendations, please refer to the [Project Report](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Data%20Analysis%20Project%20Report_NK.pdf) and the [Presentation Slides](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Data%20Analysis%20Project_NK.pptx).
+For a more detailed look at the insights and recommendations, please refer to the [Project Report](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Data%20Analysis%20Project%20Report_NK.pdf) and the [Project Presentation Slides](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Data%20Analysis%20Project%20Presentation_NK.pdf).
 
 # **Section 7: Rationale Behind Choosing EXCEL as My Go-To Tool**
 For this project, I chose to leverage Excel as my primary data analysis tool. Excel has several powerful features that make it a perfect fit for end-to-end data analysis, including:
@@ -170,7 +170,7 @@ This project provides a clear understanding of the factors affecting ValueFrenzy
 
 •	[Project Report (PDF)](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Data%20Analysis%20Project%20Report_NK.pdf)
 
-•	[Presentation Slides (PPT)](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Data%20Analysis%20Project_NK.pptx)
+•	[Presentation Slides (PDF)](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Data%20Analysis%20Project%20Presentation_NK.pdf)
 
 •	[Excel Dashboard](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy%20Dashboard%20-%20NK.xlsx)
 
