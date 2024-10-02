@@ -18,7 +18,7 @@ Declining Revenue and Gross Profit:
 •	Insight: ValueFrenzy’s revenue dropped from $13.8M in 2021 to $9.7M in 2022 and 2023, alongside a decline in gross profit from $8.2M to $5.8M.  
 •	Root Cause: Reduced high-tier product sales, especially in the USA, due to economic constraints and lower ATV after Q4 2021.
 
-![ValueFrenzy_Insight 1](https://github.com/user-attachments/assets/dcc006c4-8d01-41df-b5e4-7ddb5bbe2c22)
+![ValueFrenzy_Insight 1](https://github.com/user-attachments/assets/00278623-297e-4cc1-b697-9e2f8167be68)
  
 Recommendation 1:
 Address Declining Revenue and Gross Profit:  
@@ -30,7 +30,7 @@ Stable Quantity Sold but Shifting Product Mix:
 •	Insight: 15.7M units sold, with groceries making up 60% of sales. High-tier product sales declined significantly.  
 •	Root Cause: Economic pressures led customers to prioritize essential goods like groceries, reducing demand for high-tier items.
 
-![ValueFrenzy_Insight 2](https://github.com/user-attachments/assets/4bda4ac4-2fa9-4b31-8a52-f36c410450f2)
+![ValueFrenzy_Insight 2](https://github.com/user-attachments/assets/44aefcf7-4241-458d-a893-1e51efca72ba)
  
 Recommendation 2:
 Optimize Product Mix and Encourage High-Tier Sales:  
@@ -42,7 +42,7 @@ High Transaction Volume but Lower Average Transaction Value:
 •	Insight: Transaction volume remained steady, but ATV dropped from $75+ in 2021 to $53+ in 2022-2023.  
 •	Root Cause: Fewer high-value transactions and more frequent low-cost purchases caused the sharp drop in ATV.
 
-![ValueFrenzy_Insight 3](https://github.com/user-attachments/assets/7c70aabc-aac7-4d0f-94d2-ec732872b45b)
+![ValueFrenzy_Insight 3](https://github.com/user-attachments/assets/e52fce1f-7d81-440f-bdac-d77564e86217)
  
 Recommendation 3:
 Boost Average Transaction Value (ATV):  
