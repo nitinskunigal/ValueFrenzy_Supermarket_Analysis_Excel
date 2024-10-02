@@ -148,8 +148,8 @@ I learned how real-world datasets often don’t conform to neat, predefined stru
 
 ## ***3. Defining Key Metrics and KPIs:***
 Identifying the right KPIs—Total Revenue, Gross Profit, Quantity Sold, Total Transactions, and Average Transaction Value—taught me the importance of aligning analytical goals with business objectives. These KPIs formed the backbone of the analysis, and I learned how essential it is to communicate their impact clearly to stakeholders.
-## ***4. Data Modeling in Power Pivot:***
-Setting up relationships between fact and dimension tables was a key learning area. Understanding how to structure data models for efficient querying and analysis helped me enhance my skills in Power Pivot and reinforced the importance of having well-defined data relationships.
+## ***4. Data Modeling and DAX Measures in Power Pivot:***
+Setting up relationships between fact and dimension tables was a key learning area. Understanding how to structure data models for efficient querying and analysis helped me enhance my skills in Power Pivot and reinforced the importance of having well-defined data relationships. Using different DAX measures further solidified my understanding of how to slice and dice data from different perspectives yet connecting the dots between all the 5 KPIs, which wouldn't have been possible with normal pivot tables.
 ## ***5. Dashboard Design and Presentation:***
 Crafting a dashboard that is both insightful and user-friendly was a rewarding challenge. I learned the importance of balancing aesthetics and functionality, ensuring that key insights were easily accessible while maintaining a clean and professional design. This project helped me hone my skills in visual storytelling and presenting complex insights in a simplified, impactful way.
 ## ***6. Stakeholder Collaboration and Feedback:***
