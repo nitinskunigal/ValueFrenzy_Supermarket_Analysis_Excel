@@ -52,7 +52,8 @@ Average amount spent per transaction.
 1.	**Insight**: ValueFrenzy’s revenue dropped from $13.8M in 2021 to $9.7M in 2022 and 2023, alongside a decline in gross profit from $8.2M to $5.8M.  
 2.	**Root Cause**: Reduced high-tier product sales, especially in the USA, due to economic constraints and lower ATV after Q4 2021.
 
-![ValueFrenzy_Insight 1](https://github.com/user-attachments/assets/a8990e20-1417-4340-90db-34e3f75c1e55)
+
+![ValueFrenzy_Insight 1](https://github.com/user-attachments/assets/fceec189-4fba-4312-b983-42a0285d4e50)
  
 ## **Recommendation 1:**
 
