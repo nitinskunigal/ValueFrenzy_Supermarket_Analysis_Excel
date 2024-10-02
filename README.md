@@ -1,5 +1,7 @@
 # **Project Overview**  
-This project presents a comprehensive data analysis for ValueFrenzy, a large supermarket chain operating across the USA, Mexico, and Canada. The analysis focuses on sales data from 2021-2023, addressing key performance indicators (KPIs) such as Total Revenue, Gross Profit, Quantity Sold, Total Transactions, and Average Transaction Value (ATV).
+This project is an in-depth analysis of sales data from ValueFrenzy, a fictional supermarket chain operating in the FMCG sector across the USA, Mexico, and Canada. The goal was to analyze key performance indicators (KPIs) such as Total Revenue, Gross Profit, Quantity Sold, Total Transactions, and Average Transaction Value (ATV) to uncover insights and provide recommendations for business growth. The analysis focused on historical sales data from 2021-2023, segmented by three major regions (USA, Mexico, Canada) and product tiers (low-tier like groceries, medium-tier like household goods, and high-tier like electronics). 
+
+The objective of this project is to assist ValueFrenzy in understanding sales trends from 2021-2023, identify the root causes of declining revenue and profitability, and provide actionable insights and recommendations to improve operational efficiency and market competitiveness across its three regions: USA, Mexico, and Canada.
 
 # **Motivation**  
 In the highly competitive FMCG industry, it is crucial to maintain strong profit margins while responding to shifting customer behaviors. This project aims to provide actionable insights that can help ValueFrenzy identify gaps and capitalize on opportunities to improve overall profitability and customer satisfaction.
@@ -96,18 +98,17 @@ The dataset used for this analysis was provided in CSV format, eliminating the n
 
 # **Data Model**
 
-The data model was created using Power Pivot to establish relationships between the fact table (sales data) and dimension tables (products, regions, and time). This data model is the backbone of the analysis and enabled complex calculations and dynamic insights.
+The data model was created using Power Pivot to establish relationships between the fact table (sales data) and dimension tables (products, regions, and time periods). This data model is the backbone of the analysis and enables complex calculations and dynamic insights. It allows for slicing and dicing data in multiple dimensions for deeper analysis and visualization within the dashboard. The relationships are structured as follows:
 
 ![ValueFrenzy Data Model](https://github.com/user-attachments/assets/f95401f3-dde9-4cc9-a792-837262b9d0c0)
  
-The fact and dimension tables are related in the following ways:
 ## ***Fact Table (Sales):***
-Includes sales transaction data segmented by region, product category, and time.
+Includes consolidated sales transaction data (2021-2023) segmented by region, product category, and time.
 ## ***Dimension Tables:***
 ### *Products:* 
 Categorizes products into low-tier (groceries), medium-tier (household goods), and high-tier (electronics).
 ### *Regions:* 
-Lists USA, Mexico, and Canada.
+Includes USA, Mexico, and Canada.
 ### *Time:* 
 Segments data by year, month, and quarter for trend analysis.
 
@@ -159,10 +160,8 @@ Managing the project timeline taught me to work in sprints and deliver results i
 
 Overall, this project was a comprehensive learning experience, covering everything from technical data handling to strategic business analysis and communication. It has prepared me well for future data analysis projects where technical skills, business understanding, and stakeholder engagement all converge.
 
-
 # **Conclusion**
-This data analysis project provides a clear understanding of the factors affecting ValueFrenzy’s performance from 2021-2023. The insights drawn from this analysis can help guide strategic decisions to improve revenue, optimize product offerings, and tailor marketing efforts based on regional trends.
-Explore the project, interact with the dashboard, and read through the detailed findings to see how data-driven insights can shape business strategy in the FMCG sector.
+This project provides a clear understanding of the factors affecting ValueFrenzy’s performance from 2021-2023. The data analysis provides actionable insights that can drive significant improvements in ValueFrenzy's revenue and profitability. By addressing key gaps in high-tier product sales and focusing on region-specific strategies, the company can enhance its market presence and operational efficiency across the USA, Mexico, and Canada.
 
 # **View/ Download Project Files**
 
