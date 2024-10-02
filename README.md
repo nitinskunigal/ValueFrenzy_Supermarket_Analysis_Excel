@@ -123,6 +123,8 @@ For this project, I chose to leverage Excel as my primary data analysis tool. Ex
 
 3.	**Visualization and Dashboarding**: Excel’s charting and pivot table functionalities allowed me to create dynamic, interactive dashboards with slicers and drill-down options. The final dashboard is easy to interact with, aligning with the project's goal of simplicity and accessibility for a wide audience.
 
+By focusing solely on Excel, I was able to unlock its full potential, demonstrating how it can be utilized not only for simple spreadsheets but also for advanced data modeling, in-depth analysis, and professional visual reporting.
+
 # **Section 8: How to Use This Project**
 1.	Download the Excel Dashboard from this repository. The dashboard can be used to explore the KPIs and trends across different markets.
 	
@@ -171,3 +173,5 @@ This project provides a clear understanding of the factors affecting ValueFrenzy
 •	[Presentation Slides (PPT)](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Data%20Analysis%20Project_NK.pptx)
 
 •	[Excel Dashboard](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy%20Dashboard%20-%20NK.xlsx)
+
+•	[Video Presentation](https://share.vidyard.com/watch/i11Buozsgp1U7zwZLSKkQJ?)
