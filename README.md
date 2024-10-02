@@ -120,7 +120,10 @@ While this project provides valuable insights, there are several ways it can be 
 This data analysis project provides a clear understanding of the factors affecting ValueFrenzy’s performance from 2021-2023. The insights drawn from this analysis can help guide strategic decisions to improve revenue, optimize product offerings, and tailor marketing efforts based on regional trends.
 Explore the project, interact with the dashboard, and read through the detailed findings to see how data-driven insights can shape business strategy in the FMCG sector.
 
-**View/ Download Project Files**
+# **View/ Download Project Files**
+
 •	[Project Report (PDF)] (https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Data%20Analysis%20Project%20Report_NK.pdf)
+
 •	[Presentation Slides (PPT)] (https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Data%20Analysis%20Project_NK.pptx)
+
 •	[Excel Dashboard] (https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy%20Dashboard%20-%20NK.xlsx)
