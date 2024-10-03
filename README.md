@@ -173,5 +173,3 @@ This project provides a clear understanding of the factors affecting ValueFrenzy
 •	[Presentation Slides (PDF)](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Data%20Analysis%20Project%20Presentation_NK.pdf)
 
 •	[Excel Dashboard](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy%20Dashboard%20-%20NK.xlsx)
-
-•	[Video Presentation](https://share.vidyard.com/watch/i11Buozsgp1U7zwZLSKkQJ?)
