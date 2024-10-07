@@ -25,8 +25,6 @@ Includes USA, Mexico, and Canada.
 ### *Time:* 
 Segments data by year, month, and quarter for trend analysis.
 
-For the complete details about the Dashboard, Data Model, Detailed Analysis (Pivot Tables and DAX Measures), please refer to [Excel Dashboard](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy%20Dashboard%20-%20NK.xlsx).
-
 # **Section 5: Key KPIs**
 
 ## **Total Revenue**
@@ -172,4 +170,4 @@ This project provides a clear understanding of the factors affecting ValueFrenzy
 
 •	[Presentation Slides (PDF)](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Data%20Analysis%20Project%20Presentation_NK.pdf)
 
-•	[Excel Dashboard](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy%20Dashboard%20-%20NK.xlsx)
+•	[Excel Dashboard (PDF)](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Dashboard_Presentation_NK.pdf)
