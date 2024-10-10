@@ -173,4 +173,4 @@ This project provides a clear understanding of the factors affecting ValueFrenzy
 •	[Presentation Slides (PDF)](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Data%20Analysis%20Project%20Presentation_NK.pdf)
 
 # Note: 
-A PDF version of the ValueFrenzy multi-page dashboard is available in this repository. For those interested in exploring the interactive Excel version, feel free to reach out to me, and I’d be happy to provide access.
+Screenshots of the ValueFrenzy multi-page dashboard are available in this repository. For those interested in exploring the interactive Excel version, feel free to reach out to me, and I’d be happy to provide access.
