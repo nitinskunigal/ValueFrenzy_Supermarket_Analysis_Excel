@@ -166,7 +166,9 @@ This project provides a clear understanding of the factors affecting ValueFrenzy
 
 # **Section 12: View/ Download Project Files**
 
-•	[Project Report (PDF)](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Data%20Analysis%20Project%20Report_NK.pdf)
+•	[Project Charter (PDF)](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Project%20Charter_NK.pdf)
+
+•       [Project Report (PDF)](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Data%20Analysis%20Project%20Report_NK.pdf)
 
 •	[Presentation Slides (PDF)](https://github.com/nitinskunigal/ValueFrenzy_Supermarket_Analysis_Excel/blob/main/ValueFrenzy_Data%20Analysis%20Project%20Presentation_NK.pdf)
 
